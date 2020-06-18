@@ -13,8 +13,7 @@
 
 
 -- Dumping database structure for foodshala
-CREATE DATABASE IF NOT EXISTS `foodshala` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `foodshala`;
+USE `sql12349442`;
 
 -- Dumping structure for table foodshala.customers
 CREATE TABLE IF NOT EXISTS `customers` (
