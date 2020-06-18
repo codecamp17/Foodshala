@@ -5,7 +5,8 @@
  * PHP
  * HTML/CSS/Bootstrap/JS
  * Mysql
- * Heroku/ mysql hosted on https://www.freemysqlhosting.net/
+ * Website hosted on heroku https://foodshala-for-internshala.herokuapp.com/ 
+ * mysql hosted on https://www.freemysqlhosting.net/
 
 ## Database file name : Foodshala.sql
 ## Replicate database using Foodshala.sql and make changes to files/connection.php to run.
